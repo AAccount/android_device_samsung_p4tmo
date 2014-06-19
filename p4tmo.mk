@@ -14,7 +14,7 @@
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/modules/dhd.ko:system/lib/modules/dhd.ko \
-    $(LOCAL_PATH)/modules/dhd.ko:system/lib/modules/cifs.ko \
+    $(LOCAL_PATH)/modules/cifs.ko:system/lib/modules/cifs.ko \
     $(LOCAL_PATH)/modules/exfat_core.ko:system/lib/modules/exfat_core.ko \
     $(LOCAL_PATH)/modules/exfat_fs.ko:system/lib/modules/exfat_fs.ko \
     $(LOCAL_PATH)/modules/frandom.ko:system/lib/modules/frandom.ko \
