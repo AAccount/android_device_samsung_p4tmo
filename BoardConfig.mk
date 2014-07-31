@@ -31,4 +31,4 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 14200340480
 #No don't. It's a waste of time and hardly ever changes (I can't think of anything to add)
 # Keep this as a fallback
 TARGET_PREBUILT_KERNEL := device/samsung/p4tmo/KitKatKernel
-#TARGET_PREBUILT_KERNEL := device/samsung/p4tmo/minimal-zImage3
+#TARGET_PREBUILT_KERNEL := device/samsung/p4tmo/minimal-zImage4
