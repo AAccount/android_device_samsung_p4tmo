@@ -30,5 +30,5 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 14200340480
 #TARGET_KERNEL_CONFIG := cyanogenmod_samsung_p4_usa_tmo-jb_defconfig
 #No don't. It's a waste of time and hardly ever changes (I can't think of anything to add)
 # Keep this as a fallback
-TARGET_PREBUILT_KERNEL := device/samsung/p4tmo/KitKatKernel
+TARGET_PREBUILT_KERNEL := device/samsung/p4tmo/A1Kernel
 #TARGET_PREBUILT_KERNEL := device/samsung/p4tmo/minimal-zImage4
